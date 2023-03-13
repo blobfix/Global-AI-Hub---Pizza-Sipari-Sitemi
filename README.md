@@ -1,1 +1,1 @@
-# Global-AI-Hub---Pizza-Sipari-Sitemi
+# Global-AI-Hub---Pizza-Siparis-Sistemi
