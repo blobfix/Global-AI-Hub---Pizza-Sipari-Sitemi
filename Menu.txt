@@ -1,0 +1,13 @@
+* Pizzalar:
+1: Klasik (Domates, Mozzarella, Fesleğen)
+2: Margarita (Domates, Mozzarella, Fesleğen, Zeytinyağı, Tuz)
+3: TürkPizza (Soğan, Kaşar Peyniri, Mantar, Yeşil Biber, Sucuk, Pastırma)
+4: Sade Pizza (Kaşar Peyniri, Mozzarella, Mısır, Zeytin)
+* Üzeri için ek malzemeler:
+11: Zeytin
+12: Mantar
+13: Keçi Peyniri
+14: Et
+15: Soğan
+16: Mısır
+* Teşekkür ederiz!
